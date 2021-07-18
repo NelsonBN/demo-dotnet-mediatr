@@ -1,5 +1,7 @@
-# demo-dotnet-mediatr
-Demo of using MediatR on dotnet
+# Demo .NET MediatR
+Demo using MediatR to send commands and notifications
+
+IMediator.Send() vs IMediator.Publish();
 
 
 
