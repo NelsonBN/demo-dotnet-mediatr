@@ -3,7 +3,16 @@ Demo using MediatR to send commands and notifications
 
 IMediator.Send() vs IMediator.Publish();
 
+## Run project
 
+```bash
+cd src\WebAPI
+dotnet run
+```
+
+```html
+http://localhost:5000/swagger/index.html
+```
 
 ## Contribution
 
